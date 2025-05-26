@@ -11,7 +11,7 @@ As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, hi
 
 ---
 
-### 🧰 Tech Stack
+
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,7 +44,7 @@ As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, hi
 
 ---
 
-🧰 **Tech Stack**
+### 🧰 Tech Stack
 
 **Front-End:**  
 HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Vue.js, Inertia.js
