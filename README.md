@@ -22,8 +22,6 @@ Hey! I’ve spent the last **10+ years** diving into tech and gaining experience
 
 As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, high-performance web applications** with a focus on seamless user experiences. I love solving real-world problems with elegant and scalable solutions.
 
----
-
 ### 💼 My Expertise
 
 - **Backend:** PHP, Laravel (APIs, Auth, RBAC)
@@ -34,16 +32,12 @@ As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, hi
 - **Design:** UI/UX, Wireframing, Prototyping
 - **Extra:** Virtual Assistance, LinkedIn Lead Generation
 
----
-
 ### 💡 Why Work With Me?
 
 - ✅ Clean, scalable, and maintainable code
 - ✅ Focused on performance and user experience
 - ✅ Strong communication and on-time delivery
 - ✅ Passion for learning and solving problems
-
----
 
 ### 📫 Let's Connect
 
@@ -54,7 +48,5 @@ Reach out to me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/shifkat)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shifkat)  
 
-
----
 
 > Thanks for visiting my profile. Let’s build something awesome together!
