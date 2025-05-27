@@ -49,10 +49,10 @@ As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, hi
 I'm always open to exciting ideas, collaborations, and interesting projects.  
 Reach out to me:
 
-- 🌐 [GitHub](https://github.com/shifkat)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shifkat-ahamed-siddiqui/)
-- 💬 [Facebook](https://www.facebook.com/shifkat)
-- 🐦 [Twitter / X](https://x.com/shifkat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shifkat-ahamed-siddiqui/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/shifkat)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shifkat)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shifkat)
 
 ---
 
