@@ -16,11 +16,13 @@
 
 
 # Hi, I'm Shifkat  
-### Full-Stack Developer | Laravel & Vue.js Specialist | Wordpress | VA | Tech Enthusiast
+### Full-Stack Developer | Laravel & Vue.js Specialist | WordPress | VA | Technical Recruiter | Tech Enthusiast
 
 Hey! I’ve spent the last **10+ years** diving into tech and gaining experience across a variety of fields—**always learning, always building**.
 
 As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, high-performance web applications** with a focus on seamless user experiences. I love solving real-world problems with elegant and scalable solutions.
+
+While I’m deeply rooted in full-stack development, I also bring 1.5 years of experience as a technical recruiter—screening, sourcing, and placing talent in developer and IT roles. This cross-functional background gives me a unique edge in understanding both tech and people.
 
 ### 💼 My Expertise
 
@@ -31,6 +33,7 @@ As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, hi
 - **CMS & E-commerce:** WordPress (Custom themes & plugins)
 - **Design:** UI/UX, Wireframing, Prototyping
 - **Extra:** Virtual Assistance, LinkedIn Lead Generation
+- **Other Professional Skills:** Tech Recruitment (1.5 years): Sourcing, Screening, Talent Acquisition for Developer Roles
 
 ### 💡 Why Work With Me?
 
