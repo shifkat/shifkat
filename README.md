@@ -1,14 +1,3 @@
-# Hi, I'm Shifkat 👋  
-### Full-Stack Developer | Laravel & Vue.js Specialist | Wordpress | VA | Tech Enthusiast
-
-Hey! I’ve spent the last **10+ years** diving into tech and gaining experience across a variety of fields—**always learning, always building**.
-
-As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, high-performance web applications** with a focus on seamless user experiences. I love solving real-world problems with elegant and scalable solutions.
-
----
-
-### 🔧 Tech I Love Working With
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
@@ -24,6 +13,13 @@ As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, hi
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+# Hi, I'm Shifkat  
+### Full-Stack Developer | Laravel & Vue.js Specialist | Wordpress | VA | Tech Enthusiast
+
+Hey! I’ve spent the last **10+ years** diving into tech and gaining experience across a variety of fields—**always learning, always building**.
+
+As a **passionate Full-Stack Developer**, I specialize in crafting **dynamic, high-performance web applications** with a focus on seamless user experiences. I love solving real-world problems with elegant and scalable solutions.
 
 ---
 
